@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+
+  <title><![CDATA[Category: dojo | Marcelo Cajueiro's thoughts]]></title>
+  <link href="http://marcelocajueiro.github.io/blog/categories/dojo/atom.xml" rel="self"/>
+  <link href="http://marcelocajueiro.github.io/"/>
+  <updated>2013-08-14T00:07:29-03:00</updated>
+  <id>http://marcelocajueiro.github.io/</id>
+  <author>
+    <name><![CDATA[Marcelo Cajueiro]]></name>
+    
+  </author>
+  <generator uri="http://octopress.org/">Octopress</generator>
+
+  
+  <entry>
+    <title type="html"><![CDATA[Encontro Do GURU-MG - 28 Julho De 2012]]></title>
+    <link href="http://marcelocajueiro.github.io/blog/2012/08/01/encontro-do-guru-mg-28-julho-de-2012/"/>
+    <updated>2012-08-01T09:44:00-03:00</updated>
+    <id>http://marcelocajueiro.github.io/blog/2012/08/01/encontro-do-guru-mg-28-julho-de-2012</id>
+    <content type="html"><![CDATA[<p>No sábado dia 28 de julho foi realizado o encontro do GURU-MG na <a href="http://www.frameworksystem.com" target="_blank">Framework</a>.</p>
+
+<h2>Talk sobre SOLID</h2>
+
+<p>O encontro começou com a talk sobre SOLID realizada por mim e pelo <a href="http://twitter.com/sobrinho" target="_blank">Sobrinho</a>.</p>
+
+<script async class="speakerdeck-embed" data-id="5015a066b52c6f0002011d4a" data-ratio="1.3333333333333333" src='http://speakerdeck.com/assets/embed.js'></script>
+
+
+
+
+<br />
+
+
+<p>Falamos sobre todos os princípios do SOLID e podemos ver que o pessoal está realmente empolgado em querer escrever código de qualidade.</p>
+
+<p>Houve várias perguntas e discussões sobre os pontos de vista.</p>
+
+<h2>Dojo</h2>
+
+<p>Logo depois da palestra, o <a href="http://twitter.com/joaovitor" target="_blank">João Vitor</a> foi o &ldquo;mestre de cerimônia&rdquo; para um Dojo com o problema <a href="https://sites.google.com/site/tddproblems/all-problems-1/Reload-countdown" target="_blank">Reload Countdown</a>.</p>
+
+<p>Para muitas pessoas, inclusive para mim, foi o primeiro Dojo. Foi uma ótima experiência nova e motivamente para fazermos outros.</p>
+
+<p>Encontramos alguns problemas para o pessoal se adaptar com o ambiente mac e um pouco de reclamação quanto ao tempo de 5 minutos de pilotagem, pois acaba sendo curto, mas isso tudo é questão de costume.</p>
+
+<p>Iremos tentar manter um Dojo por mês, sem palestras. Será um ótimo aprendizado para os rubistas que estão em MG.</p>
+
+<h2>Networking</h2>
+
+<p>Como em todo encontro, o Networking foi uma das melhores coisas.</p>
+
+<p>Conheci vários devs e até possíveis parceiros para a Code5 (terá um post sobre ela mais para frente).</p>
+
+<p>O pós-evento foi um almoço no shopping. Pena que só 5 pessoas estiveram lá.</p>
+
+<p>Fica a dica para o próximo. Programem-se para rolar um hora-extra depois.</p>
+]]></content>
+  </entry>
+  
+</feed>

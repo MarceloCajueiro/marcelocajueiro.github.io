@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+
+  <title><![CDATA[Category: leadership | Marcelo Cajueiro's thoughts]]></title>
+  <link href="http://marcelocajueiro.github.io/blog/categories/leadership/atom.xml" rel="self"/>
+  <link href="http://marcelocajueiro.github.io/"/>
+  <updated>2013-08-14T00:07:29-03:00</updated>
+  <id>http://marcelocajueiro.github.io/</id>
+  <author>
+    <name><![CDATA[Marcelo Cajueiro]]></name>
+    
+  </author>
+  <generator uri="http://octopress.org/">Octopress</generator>
+
+  
+  <entry>
+    <title type="html"><![CDATA[Pequenas tarefas, grandes melhorias]]></title>
+    <link href="http://marcelocajueiro.github.io/blog/2013/02/27/pequenas-tarefas-grandes-melhorias/"/>
+    <updated>2013-02-27T09:09:00-03:00</updated>
+    <id>http://marcelocajueiro.github.io/blog/2013/02/27/pequenas-tarefas-grandes-melhorias</id>
+    <content type="html"><![CDATA[<p>Ultimamente, venho pensado muito em como melhorar a parte interna das aplicações em que trabalho, de forma que não atrapalhe a entrega de valor ao cliente.</p>
+
+<p>Cheguei a uma solução a longo prazo baseada nas quests existentes em RPGs.</p>
+
+<h1>Quests</h1>
+
+<p>Eu joguei <a href="http://en.wikipedia.org/wiki/MMORPG">MMORPG</a>, mais precisamente <a href="http://en.wikipedia.org/wiki/WoW">World of Warcraft</a>, por muitos anos.</p>
+
+<p>Em praticamente todos os &ldquo;<a href="http://en.wikipedia.org/wiki/Role-playing_game">role-play games</a>&rdquo;, há diversas tarefas, conhecidas como quests. Essas quests são uma lista de &ldquo;metas&rdquo; a serem cumpridas para se conseguir uma pequena recompensa.</p>
+
+<p>Em alguns jogos, existem as chamadas &ldquo;daily quests&rdquo;, que se resume em fazer a mesma quest todos os dias em busca de uma grande recompensa a longo prazo.</p>
+
+<h1>Realidade no desenvolvimento de software</h1>
+
+<p>Nos sistemas da <a href="http://integragrp.com.br/">IntegraGRP</a> nós temos diversas melhorias a serem feitas.</p>
+
+<p>Como nós somos um grupo de desenvolvedores que adora código limpo, bem testado e rápido, gostamos de manter tudo atualizado para ter acesso as principais vantagens de cada ferramenta.</p>
+
+<p>Isso tudo é muito bonito, mas não é tarefa fácil conseguir, pois temos muitos sistemas e cada um deles de tamanho considerável.</p>
+
+<h2>Exemplos de melhorias:</h2>
+
+<ul>
+<li>Atualização para o <a href="https://github.com/jnicklas/capybara">Capybara</a> 2.0;</li>
+<li>Troca do <a href="https://github.com/notahat/machinist">Machinist</a> pelo <a href="https://github.com/thoughtbot/factory_girl">FactoryGirl</a>;</li>
+<li>Verificar testes de aceitação que podem ser rodados com <a href="https://github.com/brynary/rack-test">rack-test</a> ao invés do <a href="https://github.com/jonleighton/poltergeist">poltergeist</a>, em favor performance;</li>
+<li>Junção de cenários que fazem <a href="http://en.wikipedia.org/wiki/Create,_read,_update_and_delete">CRUD</a> (ao invés de um cenário para criar, outro para editar e outro para apagar, usar apenas um, diminuindo o tempo dos testes).</li>
+</ul>
+
+
+<h2>Vamos supor um caso:</h2>
+
+<ul>
+<li>atualização do Capybara;</li>
+<li>criamos um branch para esta alteração, e lá aplicamos o básico;</li>
+<li>o servidor de <a href="http://en.wikipedia.org/wiki/Continuous_integration">integração contínua</a> irá rodar os testes;</li>
+<li>100 testes quebram;</li>
+<li>temos 4 desenvolvedores.</li>
+</ul>
+
+
+<h3>Resultado não exato:</h3>
+
+<p>Nós sabemos que em planejamento de desenvolvimento de software a matemática não é exata&hellip; mas&hellip; digamos que seja.</p>
+
+<p>Em aproximadamente 25 dias de trabalho, com apenas alguns minutos por dia para cada dev arrumar um teste, teríamos uma app melhorada.</p>
+
+<p>Com tudo pronto, temos desenvolvedores satisfeitos e motivados para um próximo desafio.</p>
+
+<h1>Conclusão</h1>
+
+<p>Acredito que pequenas tarefas diárias, para resolver grandes problemas não prioritários é um ótimo caminho para aperfeiçoar o software, sem ter de sacrificar o mais importante, a entrega de valor ao cliente.</p>
+
+<p>Lembre-se, para grandes mudanças, pequenos atos!</p>
+]]></content>
+  </entry>
+  
+</feed>

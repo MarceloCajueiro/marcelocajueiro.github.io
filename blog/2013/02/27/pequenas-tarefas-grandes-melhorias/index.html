@@ -1,0 +1,329 @@
+
+<!DOCTYPE html>
+<!--[if IEMobile 7 ]><html class="no-js iem7"><![endif]-->
+<!--[if lt IE 9]><html class="no-js lte-ie8"><![endif]-->
+<!--[if (gt IE 8)|(gt IEMobile 7)|!(IEMobile)|!(IE)]><!--><html class="no-js" lang="en"><!--<![endif]-->
+<head>
+  <meta charset="utf-8">
+  <title>Pequenas tarefas, grandes melhorias - Marcelo Cajueiro's thoughts</title>
+  <meta name="author" content="Marcelo Cajueiro">
+
+  
+  <meta name="description" content="Ultimamente, venho pensado muito em como melhorar a parte interna das aplicações em que trabalho, de forma que não atrapalhe a entrega de valor ao &hellip;">
+  
+
+  <!-- http://t.co/dKP3o1e -->
+  <meta name="HandheldFriendly" content="True">
+  <meta name="MobileOptimized" content="320">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+
+  
+  <link rel="canonical" href="http://marcelocajueiro.github.io/blog/2013/02/27/pequenas-tarefas-grandes-melhorias">
+  <link href="/favicon.png" rel="icon">
+  <link href="/stylesheets/screen.css" media="screen, projection" rel="stylesheet" type="text/css">
+  <link href="/atom.xml" rel="alternate" title="Marcelo Cajueiro's thoughts" type="application/atom+xml">
+  <script src="/javascripts/modernizr-2.0.js"></script>
+  <script src="//ajax.googleapis.com/ajax/libs/jquery/1.9.1/jquery.min.js"></script>
+  <script>!window.jQuery && document.write(unescape('%3Cscript src="./javascripts/lib/jquery.min.js"%3E%3C/script%3E'))</script>
+  <script src="/javascripts/octopress.js" type="text/javascript"></script>
+  <!--Fonts from Google"s Web font directory at http://google.com/webfonts -->
+<link href="http://fonts.googleapis.com/css?family=PT+Serif:regular,italic,bold,bolditalic" rel="stylesheet" type="text/css">
+<link href="http://fonts.googleapis.com/css?family=PT+Sans:regular,italic,bold,bolditalic" rel="stylesheet" type="text/css">
+
+  
+  <script type="text/javascript">
+    var _gaq = _gaq || [];
+    _gaq.push(['_setAccount', 'UA-20485805-2']);
+    _gaq.push(['_trackPageview']);
+
+    (function() {
+      var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+      ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+      var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+    })();
+  </script>
+
+
+</head>
+
+<body   >
+  <header role="banner"><hgroup>
+  <h1><a href="/">Marcelo Cajueiro's thoughts</a></h1>
+  
+</hgroup>
+
+</header>
+  <nav role="navigation"><ul class="subscription" data-subscription="rss">
+  <li><a href="/atom.xml" rel="subscribe-rss" title="subscribe via RSS">RSS</a></li>
+  
+</ul>
+  
+<form action="http://google.com/search" method="get">
+  <fieldset role="search">
+    <input type="hidden" name="q" value="site:marcelocajueiro.github.io" />
+    <input class="search" type="text" name="q" results="0" placeholder="Search"/>
+  </fieldset>
+</form>
+  
+<ul class="main-navigation">
+  <li><a href="/">Blog</a></li>
+  <li><a href="/blog/archives">Archives</a></li>
+</ul>
+
+</nav>
+  <div id="main">
+    <div id="content">
+      <div>
+<article class="hentry" role="article">
+  
+  <header>
+    
+      <h1 class="entry-title">Pequenas Tarefas, Grandes Melhorias</h1>
+    
+    
+      <p class="meta">
+        
+
+
+
+
+
+
+
+
+  
+
+
+<time datetime="2013-02-27T09:09:00-03:00" pubdate data-updated="true">Feb 27<span>th</span>, 2013</time>
+        
+      </p>
+    
+  </header>
+
+
+<div class="entry-content"><p>Ultimamente, venho pensado muito em como melhorar a parte interna das aplicações em que trabalho, de forma que não atrapalhe a entrega de valor ao cliente.</p>
+
+<p>Cheguei a uma solução a longo prazo baseada nas quests existentes em RPGs.</p>
+
+<h1>Quests</h1>
+
+<p>Eu joguei <a href="http://en.wikipedia.org/wiki/MMORPG">MMORPG</a>, mais precisamente <a href="http://en.wikipedia.org/wiki/WoW">World of Warcraft</a>, por muitos anos.</p>
+
+<p>Em praticamente todos os &ldquo;<a href="http://en.wikipedia.org/wiki/Role-playing_game">role-play games</a>&rdquo;, há diversas tarefas, conhecidas como quests. Essas quests são uma lista de &ldquo;metas&rdquo; a serem cumpridas para se conseguir uma pequena recompensa.</p>
+
+<p>Em alguns jogos, existem as chamadas &ldquo;daily quests&rdquo;, que se resume em fazer a mesma quest todos os dias em busca de uma grande recompensa a longo prazo.</p>
+
+<h1>Realidade no desenvolvimento de software</h1>
+
+<p>Nos sistemas da <a href="http://integragrp.com.br/">IntegraGRP</a> nós temos diversas melhorias a serem feitas.</p>
+
+<p>Como nós somos um grupo de desenvolvedores que adora código limpo, bem testado e rápido, gostamos de manter tudo atualizado para ter acesso as principais vantagens de cada ferramenta.</p>
+
+<p>Isso tudo é muito bonito, mas não é tarefa fácil conseguir, pois temos muitos sistemas e cada um deles de tamanho considerável.</p>
+
+<h2>Exemplos de melhorias:</h2>
+
+<ul>
+<li>Atualização para o <a href="https://github.com/jnicklas/capybara">Capybara</a> 2.0;</li>
+<li>Troca do <a href="https://github.com/notahat/machinist">Machinist</a> pelo <a href="https://github.com/thoughtbot/factory_girl">FactoryGirl</a>;</li>
+<li>Verificar testes de aceitação que podem ser rodados com <a href="https://github.com/brynary/rack-test">rack-test</a> ao invés do <a href="https://github.com/jonleighton/poltergeist">poltergeist</a>, em favor performance;</li>
+<li>Junção de cenários que fazem <a href="http://en.wikipedia.org/wiki/Create,_read,_update_and_delete">CRUD</a> (ao invés de um cenário para criar, outro para editar e outro para apagar, usar apenas um, diminuindo o tempo dos testes).</li>
+</ul>
+
+
+<h2>Vamos supor um caso:</h2>
+
+<ul>
+<li>atualização do Capybara;</li>
+<li>criamos um branch para esta alteração, e lá aplicamos o básico;</li>
+<li>o servidor de <a href="http://en.wikipedia.org/wiki/Continuous_integration">integração contínua</a> irá rodar os testes;</li>
+<li>100 testes quebram;</li>
+<li>temos 4 desenvolvedores.</li>
+</ul>
+
+
+<h3>Resultado não exato:</h3>
+
+<p>Nós sabemos que em planejamento de desenvolvimento de software a matemática não é exata&hellip; mas&hellip; digamos que seja.</p>
+
+<p>Em aproximadamente 25 dias de trabalho, com apenas alguns minutos por dia para cada dev arrumar um teste, teríamos uma app melhorada.</p>
+
+<p>Com tudo pronto, temos desenvolvedores satisfeitos e motivados para um próximo desafio.</p>
+
+<h1>Conclusão</h1>
+
+<p>Acredito que pequenas tarefas diárias, para resolver grandes problemas não prioritários é um ótimo caminho para aperfeiçoar o software, sem ter de sacrificar o mais importante, a entrega de valor ao cliente.</p>
+
+<p>Lembre-se, para grandes mudanças, pequenos atos!</p>
+</div>
+
+
+  <footer>
+    <p class="meta">
+      
+  
+
+<span class="byline author vcard">Posted by <span class="fn">Marcelo Cajueiro</span></span>
+
+      
+
+
+
+
+
+
+
+
+  
+
+
+<time datetime="2013-02-27T09:09:00-03:00" pubdate data-updated="true">Feb 27<span>th</span>, 2013</time>
+      
+
+<span class="categories">
+  
+    <a class='category' href='/blog/categories/agile/'>agile</a>, <a class='category' href='/blog/categories/dev/'>dev</a>, <a class='category' href='/blog/categories/leadership/'>leadership</a>, <a class='category' href='/blog/categories/rails/'>rails</a>
+  
+</span>
+
+
+    </p>
+    
+      <div class="sharing">
+  
+  <a href="//twitter.com/share" class="twitter-share-button" data-url="http://marcelocajueiro.github.io/blog/2013/02/27/pequenas-tarefas-grandes-melhorias/" data-via="marcelocajueiro" data-counturl="http://marcelocajueiro.github.io/blog/2013/02/27/pequenas-tarefas-grandes-melhorias/" >Tweet</a>
+  
+  
+  
+</div>
+
+    
+    <p class="meta">
+      
+        <a class="basic-alignment left" href="/blog/2012/09/19/rs-on-rails-a-saga/" title="Previous Post: RS on Rails - A saga">&laquo; RS on Rails - A saga</a>
+      
+      
+        <a class="basic-alignment right" href="/blog/2013/07/04/dicas-do-murilo-gun-para-a-sua-carreira/" title="Next Post: Dicas do Murilo Gun para a sua Carreira">Dicas do Murilo Gun para a sua Carreira &raquo;</a>
+      
+    </p>
+  </footer>
+</article>
+
+  <section>
+    <h1>Comments</h1>
+    <div id="disqus_thread" aria-live="polite"><noscript>Please enable JavaScript to view the <a href="http://disqus.com/?ref_noscript">comments powered by Disqus.</a></noscript>
+</div>
+  </section>
+
+</div>
+
+<aside class="sidebar">
+  
+    <section>
+  <h1>Recent Posts</h1>
+  <ul id="recent_posts">
+    
+      <li class="post">
+        <a href="/blog/2013/07/04/dicas-do-murilo-gun-para-a-sua-carreira/">Dicas Do Murilo Gun Para a Sua Carreira</a>
+      </li>
+    
+      <li class="post">
+        <a href="/blog/2013/02/27/pequenas-tarefas-grandes-melhorias/">Pequenas Tarefas, Grandes Melhorias</a>
+      </li>
+    
+      <li class="post">
+        <a href="/blog/2012/09/19/rs-on-rails-a-saga/">RS on Rails - a Saga</a>
+      </li>
+    
+      <li class="post">
+        <a href="/blog/2012/08/01/encontro-do-guru-mg-28-julho-de-2012/">Encontro Do GURU-MG - 28 Julho De 2012</a>
+      </li>
+    
+  </ul>
+</section>
+
+<section>
+  <h1>GitHub Repos</h1>
+  <ul id="gh_repos">
+    <li class="loading">Status updating...</li>
+  </ul>
+  
+  <a href="https://github.com/marcelocajueiro">@marcelocajueiro</a> on GitHub
+  
+  <script type="text/javascript">
+    $(document).ready(function(){
+        if (!window.jXHR){
+            var jxhr = document.createElement('script');
+            jxhr.type = 'text/javascript';
+            jxhr.src = '/javascripts/libs/jXHR.js';
+            var s = document.getElementsByTagName('script')[0];
+            s.parentNode.insertBefore(jxhr, s);
+        }
+
+        github.showRepos({
+            user: 'marcelocajueiro',
+            count: 3,
+            skip_forks: true,
+            target: '#gh_repos'
+        });
+    });
+  </script>
+  <script src="/javascripts/github.js" type="text/javascript"> </script>
+</section>
+
+
+
+
+
+  
+</aside>
+
+
+    </div>
+  </div>
+  <footer role="contentinfo"><p>
+  Copyright &copy; 2013 - Marcelo Cajueiro -
+  <span class="credit">Powered by <a href="http://octopress.org">Octopress</a></span>
+</p>
+
+</footer>
+  
+
+<script type="text/javascript">
+      var disqus_shortname = 'marcelocajueirosblog';
+      
+        
+        // var disqus_developer = 1;
+        var disqus_identifier = 'http://marcelocajueiro.github.io/blog/2013/02/27/pequenas-tarefas-grandes-melhorias/';
+        var disqus_url = 'http://marcelocajueiro.github.io/blog/2013/02/27/pequenas-tarefas-grandes-melhorias/';
+        var disqus_script = 'embed.js';
+      
+    (function () {
+      var dsq = document.createElement('script'); dsq.type = 'text/javascript'; dsq.async = true;
+      dsq.src = 'http://' + disqus_shortname + '.disqus.com/' + disqus_script;
+      (document.getElementsByTagName('head')[0] || document.getElementsByTagName('body')[0]).appendChild(dsq);
+    }());
+</script>
+
+
+
+
+
+
+
+  <script type="text/javascript">
+    (function(){
+      var twitterWidgets = document.createElement('script');
+      twitterWidgets.type = 'text/javascript';
+      twitterWidgets.async = true;
+      twitterWidgets.src = '//platform.twitter.com/widgets.js';
+      document.getElementsByTagName('head')[0].appendChild(twitterWidgets);
+    })();
+  </script>
+
+
+
+
+
+</body>
+</html>

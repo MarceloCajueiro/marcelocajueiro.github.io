@@ -1,0 +1,131 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+
+  <title><![CDATA[Category: events | Marcelo Cajueiro's thoughts]]></title>
+  <link href="http://marcelocajueiro.github.io/blog/categories/events/atom.xml" rel="self"/>
+  <link href="http://marcelocajueiro.github.io/"/>
+  <updated>2013-08-14T00:07:29-03:00</updated>
+  <id>http://marcelocajueiro.github.io/</id>
+  <author>
+    <name><![CDATA[Marcelo Cajueiro]]></name>
+    
+  </author>
+  <generator uri="http://octopress.org/">Octopress</generator>
+
+  
+  <entry>
+    <title type="html"><![CDATA[RS on Rails - A saga]]></title>
+    <link href="http://marcelocajueiro.github.io/blog/2012/09/19/rs-on-rails-a-saga/"/>
+    <updated>2012-09-19T12:23:00-03:00</updated>
+    <id>http://marcelocajueiro.github.io/blog/2012/09/19/rs-on-rails-a-saga</id>
+    <content type="html"><![CDATA[<p>Ah o <strong><a href="http://rsonrails.com.br/">RS on Rails</a></strong>… essa foi a minha terceira participação e quanta coisa mudou devido a esse evento.</p>
+
+<p>Segue uma pequena retrospectiva demonstrando o quanto o <a href="http://rsonrails.com.br/">RS on Rails</a> foi marcante na minha vida.</p>
+
+<h2>2010</h2>
+
+<p>Fui na cara e na coragem, de carro com um grupo de catarinenses.</p>
+
+<p>Eu nem programava direito ainda, estava engatinhando com Ruby e Rails.</p>
+
+<p>Nesse ano, fiz uma lightning talk sobre o <a href="http://groups.google.com/group/guru-sc/">GURU-SC</a> que eu havia &ldquo;fundado&rdquo; devido a &ldquo;morte&rdquo; do &ldquo;rails-SC&rdquo;.</p>
+
+<p>Meses depois, graças a comunicação gerada entre o <a href="http://groups.google.com/group/guru-sc/">GURU-SC</a> e o <a href="http://www.gururs.org/">GURU-RS</a>, teve o primeiro encontro do <a href="http://groups.google.com/group/guru-sc/">GURU-SC</a> em Florianópolis.</p>
+
+<p>Tivemos a participação em massa do pessoal do Rio Grande do Sul.</p>
+
+<p>Nesse evento, houve turismo, banho em lagoa poluída e muito mais, fora a presença do <strong>Doido</strong> que veio de Belo Horizonte, chegando em cima da hora das palestras e partindo de volta 12 horas depois.</p>
+
+<p>(Eu iria virar um grande amigo do <strong>Doido</strong> alguns meses depois)</p>
+
+<h2>2011</h2>
+
+<p>Dessa vez, eu não era mais tão noob. Já estava trabalhando com Ruby on Rails há praticamente 10 meses na <a href="http://ocapi.com.br/">Ocapi</a>.</p>
+
+<p>Já um pouco mais desembaraçado, dessa vez fiz vários contatos, que continuam fortes até hoje.</p>
+
+<p>Sabe o doido que comentei em &ldquo;2010&rdquo; e que veio a virar meu amigo? No preview do <a href="http://rsonrails.com.br/">RS on Rails</a>, que aconteceu no QG da <a href="http://engage.is/">Engage</a>, me convidou para trabalhar na sua empresa recém fundada.</p>
+
+<p>Aceitei a proposta e estou na Nohup até hoje.</p>
+
+<h2>2012</h2>
+
+<p>Evoluí ainda mais depois de um ano, virando coordenador de projetos na Nohup, liderando uma equipe no desenvolvimento de dois sistemas, além de ter ajudado a fundar a <a href="http://code5.io">Code5</a>.</p>
+
+<p>Decidi praticamente em cima da hora em ir no <a href="http://rsonrails.com.br/">RS on Rails</a> desse ano e por ironia do destino, o Doido ao conversar com o ilustre <a href="http://twitter.com/felipebcabral">Cabral</a> descobriu que havia um slot vago (graças a viagem do barba ruiva pelos mares) nas palestras e, coincidentemente, eu e o Doido tínhamos uma palestra pronta sobre <a href="https://speakerdeck.com/u/marcelocajueiro/p/solid-principios-para-um-melhor-design-de-codigo">SOLID</a>.</p>
+
+<p>Foi uma ótima experiência e um prazer palestrar ao lado de um amigo num grande evento que é o <a href="http://rsonrails.com.br/">RS on Rails</a>.</p>
+
+<p>O networking novamente foi algo animal. Reencontrei grandes pessoas, conheci outras e, provavelmente, produziremos grandes frutos graças a isso.</p>
+
+<p>Quero agradecer aos organizadores do <a href="http://rsonrails.com.br/">RS on Rails</a>, pois se não fosse essa sequência, eu não estaria na ótima posição que estou hoje.</p>
+
+<p>Para o pessoal que não costuma ir em eventos, fica o exemplo, pois são neles que as principais oportunidades acontecem.</p>
+
+<h3><a href="https://twitter.com/sobrinho">O Doido</a></h3>
+
+<h3><a href="https://plus.google.com/photos/106190777837255174936/albums/5789712769201216321">Algumas fotos</a></h3>
+
+<h3>Slides da nossa palestra</h3>
+
+<script async class="speakerdeck-embed" data-id="5015a066b52c6f0002011d4a" data-ratio="1.3333333333333333" src='http://marcelocajueiro.github.io//speakerdeck.com/assets/embed.js'></script>
+
+
+
+
+<br />
+
+
+<br />
+
+
+<p>PS.: não citei os nomes das pessoas que estiveram comigo durante os eventos porque sempre irá faltar alguém, o que torna injusto, pois todos são especiais (emo mode[on]).</p>
+]]></content>
+  </entry>
+  
+  <entry>
+    <title type="html"><![CDATA[Encontro Do GURU-MG - 28 Julho De 2012]]></title>
+    <link href="http://marcelocajueiro.github.io/blog/2012/08/01/encontro-do-guru-mg-28-julho-de-2012/"/>
+    <updated>2012-08-01T09:44:00-03:00</updated>
+    <id>http://marcelocajueiro.github.io/blog/2012/08/01/encontro-do-guru-mg-28-julho-de-2012</id>
+    <content type="html"><![CDATA[<p>No sábado dia 28 de julho foi realizado o encontro do GURU-MG na <a href="http://www.frameworksystem.com" target="_blank">Framework</a>.</p>
+
+<h2>Talk sobre SOLID</h2>
+
+<p>O encontro começou com a talk sobre SOLID realizada por mim e pelo <a href="http://twitter.com/sobrinho" target="_blank">Sobrinho</a>.</p>
+
+<script async class="speakerdeck-embed" data-id="5015a066b52c6f0002011d4a" data-ratio="1.3333333333333333" src='http://speakerdeck.com/assets/embed.js'></script>
+
+
+
+
+<br />
+
+
+<p>Falamos sobre todos os princípios do SOLID e podemos ver que o pessoal está realmente empolgado em querer escrever código de qualidade.</p>
+
+<p>Houve várias perguntas e discussões sobre os pontos de vista.</p>
+
+<h2>Dojo</h2>
+
+<p>Logo depois da palestra, o <a href="http://twitter.com/joaovitor" target="_blank">João Vitor</a> foi o &ldquo;mestre de cerimônia&rdquo; para um Dojo com o problema <a href="https://sites.google.com/site/tddproblems/all-problems-1/Reload-countdown" target="_blank">Reload Countdown</a>.</p>
+
+<p>Para muitas pessoas, inclusive para mim, foi o primeiro Dojo. Foi uma ótima experiência nova e motivamente para fazermos outros.</p>
+
+<p>Encontramos alguns problemas para o pessoal se adaptar com o ambiente mac e um pouco de reclamação quanto ao tempo de 5 minutos de pilotagem, pois acaba sendo curto, mas isso tudo é questão de costume.</p>
+
+<p>Iremos tentar manter um Dojo por mês, sem palestras. Será um ótimo aprendizado para os rubistas que estão em MG.</p>
+
+<h2>Networking</h2>
+
+<p>Como em todo encontro, o Networking foi uma das melhores coisas.</p>
+
+<p>Conheci vários devs e até possíveis parceiros para a Code5 (terá um post sobre ela mais para frente).</p>
+
+<p>O pós-evento foi um almoço no shopping. Pena que só 5 pessoas estiveram lá.</p>
+
+<p>Fica a dica para o próximo. Programem-se para rolar um hora-extra depois.</p>
+]]></content>
+  </entry>
+  
+</feed>
