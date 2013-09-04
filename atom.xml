@@ -4,7 +4,7 @@
   <title><![CDATA[Marcelo Cajueiro's thoughts]]></title>
   <link href="http://marcelocajueiro.github.io/atom.xml" rel="self"/>
   <link href="http://marcelocajueiro.github.io/"/>
-  <updated>2013-08-14T00:07:29-03:00</updated>
+  <updated>2013-09-04T00:43:33-03:00</updated>
   <id>http://marcelocajueiro.github.io/</id>
   <author>
     <name><![CDATA[Marcelo Cajueiro]]></name>
@@ -12,6 +12,47 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+    <title type="html"><![CDATA[RubyConf Brasil 2013 - Networking é o que há!]]></title>
+    <link href="http://marcelocajueiro.github.io/blog/2013/09/03/rubyconf-brasil-2013-network-e-o-que-ha/"/>
+    <updated>2013-09-03T23:26:00-03:00</updated>
+    <id>http://marcelocajueiro.github.io/blog/2013/09/03/rubyconf-brasil-2013-network-e-o-que-ha</id>
+    <content type="html"><![CDATA[<p><em>Disclaimer: não é um review.</em></p>
+
+<p>Aconteceu nos dias 29 e 30 de agosto (2013) a <a href="http://www.rubyconf.com.br/">RubyConf Brasil</a>.</p>
+
+<p>Estou há três anos trabalhando com Rails e não tive a oportunidade de ir em nenhuma
+edição até esta. Esse ano estava tudo indo contra a minha ida outra vez,
+mas dei um jeito e valeu muito.</p>
+
+<p>O ponto forte para mim foi sem dúvida as pessoas que conheci ou reencontrei.</p>
+
+<p>O que mais sinto falta no trabalho remoto é o contato próximo com o pessoal da
+área, e nada melhor do que um evento técnico para suprir isto.</p>
+
+<p>Foram dois dias de evento e três noites de ótimas conversas.</p>
+
+<p>A <a href="http://www.locaweb.com.br/">Locaweb</a> e o <a href="http://www.akitaonrails.com/">Fábio Akita</a>
+estão de parabéns na questão da organização. Acredito que tudo ocorreu como o esperado.</p>
+
+<p>As palestras de modo geral foram Ok. Achei que houve muitas palestras &ldquo;comerciais&rdquo;,
+outras com assunto muito massante, que acabaram ficando entediantes, mas a maior
+parte fez o seu papel, que é plantar uma semente na cabeça dos participantes, que
+certamente irão se aprofundar no assunto depois.</p>
+
+<p>Antigamente eu costumava ser mais tímido, mas não adianta ir em uma conferência
+e ficar dentro de uma bolha.</p>
+
+<p>Vi muitas pessoas assim, que deveriam se soltar mais e se comunicar com os outros.</p>
+
+<p>Lembrem-se que se for só por causa das palestras, assistam no <a href="https://eventioz.com.br/">Eventioz</a>.</p>
+
+<p>Networking é o grande marco num evento como este, pois é possível discutir tecnologias, trocar conhecimento, fazer negócios e grandes amizades.</p>
+
+<p>Já estou ansioso para os próximos e ano que vem, quero tentar palestrar!</p>
+]]></content>
+  </entry>
   
   <entry>
     <title type="html"><![CDATA[Dicas do Murilo Gun para a sua Carreira]]></title>
