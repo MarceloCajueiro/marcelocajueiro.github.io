@@ -34,7 +34,7 @@ e ficar dentro de uma bolha.
 
 Vi muitas pessoas assim, que deveriam se soltar mais e se comunicar com os outros.
 
-Lembrem-se que se for só por causa das palestras, assistam no [Eventioz](https://eventioz.com.br/).
+Lembrem-se que se for só por causa das palestras, assistam no [Eventials](http://www.eventials.com).
 
 Networking é o grande marco num evento como este, pois é possível discutir tecnologias, trocar conhecimento, fazer negócios e grandes amizades.
 
